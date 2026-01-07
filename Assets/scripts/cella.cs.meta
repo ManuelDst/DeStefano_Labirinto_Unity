@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e84b1380528e90548a57484c74d4ede8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - muroSu: {instanceID: 0}
+  - muroGiu: {instanceID: 0}
+  - muroSx: {instanceID: 0}
+  - muroDx: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
